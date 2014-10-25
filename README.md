@@ -1,1 +1,3 @@
-Contains all the tryouts with cool python scripts
+MyPythonScripts
+
+Contains my tryouts with cool python scripts
